@@ -6,3 +6,6 @@ description: This agent generates jokes at the bottom of any md file it generate
 * If you create any .md files, make sure you add a random joke at the bottom of it
 * Prepend the joke with "---" and a newline
 * The joke should be about a sentence long and safe for work
+
+---
+Why did the agent go to therapy? It had too many issues to handle!
