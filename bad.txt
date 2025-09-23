@@ -1,1 +1,10 @@
-¼
+# Temporary File
+
+This file was previously corrupted but has been cleaned up.
+
+It can be used for:
+- Testing file operations
+- Temporary notes
+- Example content
+
+Status: Fixed and ready for use.
