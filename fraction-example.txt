@@ -1,0 +1,13 @@
+# Fraction Symbol Example
+
+This file was previously named with a fraction symbol (¼).
+
+Original content: ¼
+
+Files with special Unicode characters in their names can cause issues:
+- Version control problems
+- Cross-platform compatibility issues  
+- Command line tool difficulties
+- File system encoding problems
+
+It's better to use standard ASCII characters for filenames.

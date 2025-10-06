@@ -1,0 +1,33 @@
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Build artifacts
+dist/
+build/
+target/
+
+# Dependency directories
+node_modules/
+__pycache__/
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test coverage reports
+coverage/
+*.coverage
+htmlcov/

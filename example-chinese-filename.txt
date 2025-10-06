@@ -1,0 +1,7 @@
+Example file that was previously named with Chinese characters (一二三).
+
+Content: yeet?
+
+This demonstrates how files with non-ASCII names can be problematic 
+and should be renamed to use standard ASCII characters for better 
+compatibility across different systems and tools.
